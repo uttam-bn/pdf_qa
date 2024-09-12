@@ -23,7 +23,7 @@ To run this project, you need to have Python installed along with the following 
 
 ## Clone this repository:
 
-- https://github.com/uttam-bn/pdf_qa_streamlit_webapp.git
+- https://github.com/uttam-bn/pdf_qa.git
 - cd pdf_qa_streamlit_webapp
 
 ## Run the Streamlit application:
